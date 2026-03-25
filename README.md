@@ -1,5 +1,3 @@
-# C-GLUT-WORD-SHOOTER-GAME-
-Word Shooter is a fast-paced C++ word puzzle game where you shoot letter tiles to form valid words and score points before time runs out. my very first programming project
 # Word Shooter (C++ OpenGL)
 
 Word Shooter is a C++ arcade-style mini game built with OpenGL/GLUT and SDL2_mixer.
@@ -91,5 +89,3 @@ Recommended cleanup and checks:
 - Name: MAAZ SHER
 - Role: AI/ML Developer
 - Email: shermaaz55@gmail.com
-
-
